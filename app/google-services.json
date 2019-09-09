@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "929327857031",
+    "firebase_url": "https://komikindo-c5ecf.firebaseio.com",
+    "project_id": "komikindo-c5ecf",
+    "storage_bucket": "komikindo-c5ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929327857031:android:dcb820acd6d5ea97",
+        "android_client_info": {
+          "package_name": "com.ard.arddevone.comicnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929327857031-294sgse79ptj3odfe4mim96fardnc861.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrZhqRE6y9afRDqrFz86PIuVtEQ0TpQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

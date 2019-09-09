@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Manga Ngopi</string>
+    <string name="app_sub_name">Jomblo harus baca</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="isRTL">false</string>
+
+    <string name="admob_banner_id">ca-app-pub-8054957811632901/6071522903</string>
+    <string name="admob_banner_id2">ca-app-pub-8054957811632901/6626056678</string>
+    <string name="admob_interstitial_id">ca-app-pub-8054957811632901/7464495627</string>
+
+    <string name="play_more_app">https://play.google.com/store/apps/developer?id=ArdDevOne</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">Beranda</string>
+    <string name="latest">Terakhir</string>
+    <string name="category">Manga List</string>
+    <string name="author">Penulis</string>
+    <string name="download">Download</string>
+    <string name="favorites">Faforit</string>
+    <string name="rate_app">Rate App</string>
+    <string name="more_app">App Lainnya</string>
+    <string name="share_app">Bagikan App</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="toolbar_Title_AllComment">Semua Komentar</string>
+
+    <string name="Let_me_recommend_you_this_application">Let me recommend you this application</string>
+    <string name="internet_connection">Oni Chan Kuota Internet anda habis</string>
+    <string name="internet_connection_message">Kuota Internet habis, cek dulu</string>
+    <string name="Please_click_BACK_again_to_exit">Please click BACK again to exit</string>
+    <string name="cannot_use_save_permission">tidak dapat dibagikan, permisi</string>
+    <string name="exit">Exit</string>
+
+    <string name="no_data">No Data</string>
+    <string name="main_activity">Main Activity Android Manga</string>
+
+    <!--<about_us.xml string>-->
+    <string name="app_name_about_us">abcd</string>
+    <string name="about_us_version">Versi</string>
+    <string name="about_us_version_text">1.0</string>
+    <string name="about_us_author">Penulis</string>
+    <string name="about_us_Company">Perusahaan</string>
+    <string name="about_us_company_name">ard</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">iklas.islam@gmail.com</string>
+    <string name="about_us_website">Website</string>
+    <string name="about_us_website_text">www.arddevone.com</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">+6287847644**</string>
+    <string name="about_us_about">Tentang</string>
+    <!--<about_us.xml string>-->
+
+    <string name="lorem">
+       File rusak atau tidak terupdate dengan benar,, atau coba cek koneksi, kalau tidak berarti kuota admin habis,
+        donasikan kuota anda dalam rangka mengembangkan aplikasi ini No rek. bis hubungi admin.
+    </string>
+
+    <string name="add_to_favourite">Dimasukan di Faforit</string>
+    <string name="remove_to_favourite">Dihapus dari faforit</string>
+
+    <string name="logout">Log Out</string>
+    <string name="email">Email</string>
+    <string name="remember_me">Ingat</string>
+    <string name="button_text_login">Log In</string>
+    <string name="button_text_register">Register</string>
+    <string name="button_text_forgot_password">Forgot Password ?</string>
+    <string name="already_have_an_account_yet">sudah punya akun, ayolah ?</string>
+    <string name="register_login_text">Log In</string>
+    <string name="submit">Daftar</string>
+    <string name="password">Password</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_confirm_password">Please enter confirm password</string>
+    <string name="name">Name</string>
+    <string name="phoneNo">Phone No</string>
+    <string name="please_enter_phone">Please enter phone no</string>
+    <string name="please_enter_name">please enetr name</string>
+    <string name="latest_book">Terakhir</string>
+    <string name="latest_youve_recently_read">Manga yang terakhir di update</string>
+    <string name="button_viewall_home">Lihat semua</string>
+    <string name="top_100_for_your_autor">Manga Terbaik</string>
+    <string name="popular_books">Manga Popular</string>
+    <string name="stories_youve_recently_read">Manga yg paling banyak dibaca</string>
+    <string name="view_details">Liat Detail</string>
+    <string name="view">Nonton</string>
+    <string name="text">4.5</string>
+    <string name="profile">Profile</string>
+    <string name="name_profile">Nama :</string>
+    <string name="email_profile">Email :</string>
+    <string name="password_profile">Password :</string>
+    <string name="confirm_password_profile">konfirmasi Password :</string>
+    <string name="phone_profile">Hp :</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Success Full Save Profile</string>
+    <string name="button_text_skip">Skip</string>
+    <string name="view_number">125K</string>
+    <string name="password_and_confirmpassword_does_not_match">Password and confirm password does not match</string>
+    <string name="ok">ok</string>
+    <string name="date">12 Jan 2018</string>
+    <string name="description">Deskripsi :</string>
+    <string name="related_books">Terkait</string>
+    <string name="stories_youve_related_read_books">ayo baca juga sebelum di hapus</string>
+    <string name="button_view_all_scd">Lihat Semua</string>
+    <string name="comments">Komentar (no SARA) :</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="items_string_category_adapter">Chapter</string>
+    <string name="textView_forget_password">Forget password</string>
+    <string name="not_found_relatedBook">Tidak ada</string>
+    <string name="no_comment_found">Tidak ada komentar</string>
+    <string name="please_install_browser">Install google drive</string>
+    <string name="please_install_browser_else_pdf_viewer">Install google drive atau pdf viewer</string>
+    <string name="downloading">Downloading</string>
+    <string name="pdf_reader_notinstall">Pdf reader belum di instal</string>
+    <string name="delete">Hapus</string>
+    <string name="menu_favorite">Faforit</string>
+    <string name="share">Bagikan</string>
+    <string name="read_book">Baca Manga</string>
+    <string name="download_book">Download Manga</string>
+    <string name="you_have_allready_download_book">Kamu dah download manga ini</string>
+    <string name="Today">Hari ini</string>
+    <string name="raing">Rating.....</string>
+    <string name="thanks_for_rating">Thanks for rating</string>
+    <string name="you_have_not_login">Kamu belum Login</string>
+    <string name="please_enter_comment">Masukan komentar</string>
+    <string name="login">Login</string>
+    <string name="iteam">Iteam</string>
+    <string name="loading">Loading..</string>
+
+</resources>
